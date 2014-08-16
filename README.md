@@ -22,3 +22,4 @@ MULTITIER WEB DEVELOPMENT
 * [Squid Notification Service](https://speakerdeck.com/anak10thn/sns)
 * [HTML5 and Accessibility sitting in a tree](http://www.slideshare.net/brucelawson/html5-and-accessibility-sitting-in-a-tree?qid=c78f2879-f811-4775-af7c-4e4095361618)
 * [The Principle of Hybrid App.](http://www.slideshare.net/MusartPark/the-principle-of-hybrid-app?qid=a170b08c-8ee4-458e-bf24-f1651d693392)
+* [The introduction to Reactive Programming you've been missing](https://gist.github.com/anak10thn/cbdd579ba14453c61c72)
