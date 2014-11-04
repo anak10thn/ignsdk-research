@@ -32,4 +32,4 @@ MULTITIER WEB DEVELOPMENT
 * [Squid Notification Service](https://speakerdeck.com/anak10thn/sns) by [@anak10thn](http://github.com/anak10thn)
 * [IGNSDK Fundamental](https://speakerdeck.com/anak10thn/ignsdk-fundamental) by [@anak10thn](http://github.com/anak10thn)
 * [BBMPork : BBM Forensics Application](anak10thn.github.io/bbm-forensic.ign) by [@anak10thn](http://github.com/anak10thn) [@milisdad](http://github.com/milisdad)
-* [PAPER] [BBMPork : BBM Forensics Application] (https://github.com/anak10thn/bbm-forensic.ign/raw/gh-pages/paper/Abstraksi-Forensik-BBM-Dedy-Eka-v3.pdf) by [@anak10thn](http://github.com/anak10thn) [@milisdad](http://github.com/milisdad)
+* [PAPER] [BBMPork : BBM Forensics Application] (http://www.slideshare.net/idsecconf/purwarupa-forensik-bbm-di-telepon-selular-android-mengunakan-ignsdk-dedi-hariyadi-eka-tresna-irawan) by [@anak10thn](http://github.com/anak10thn) [@milisdad](http://github.com/milisdad)
