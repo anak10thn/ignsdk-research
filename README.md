@@ -43,7 +43,7 @@ Applications](https://mobile.aau.at/~welmenre/wises03/papers/16_Intelligent_UART
 * [The study of compression algorithms for WebSocket protocol](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6839887&queryText=websocket&newsearch=true)
 * [Internet of Things (IoT): A vision, architectural elements, and future directions](http://www.buyya.com/papers/Internet-of-Things-Vision-Future2013.pdf)
 * [Internet of Things – Architecture](https://drive.google.com/file/d/0Bym8mAYAteodODI4R1JHZWpsX28/view?usp=sharing)
-
+* [From the Internet of Computers to the Internet of Things](http://vs.inf.ethz.ch/publ/papers/Internet-of-things.pdf)
 #Self Publish
 
 * [Squid Notification Service](https://speakerdeck.com/anak10thn/sns) by [@anak10thn](http://github.com/anak10thn)
