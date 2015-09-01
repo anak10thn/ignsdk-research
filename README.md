@@ -7,6 +7,7 @@ development IGNSDK.
 
 ##Reference
 
+###core
 * [Hybrid Application Layer Multicast with Hierarchically Distributed Nodes](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6472466&queryText%3Dhybrid+apps) [PAPER]
 * [BAIK– PROGRAMMING LANGUAGE BASED ON INDONESIAN LEXICAL PARSING FOR
 MULTITIER WEB DEVELOPMENT
@@ -26,6 +27,22 @@ MULTITIER WEB DEVELOPMENT
 * [The introduction to Reactive Programming you've been missing](https://gist.github.com/anak10thn/cbdd579ba14453c61c72)
 * [Hierarchical State Machines for Native Mobile Apps](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6420696) [PAPER]
 * [Mobile web apps – the non-programmer’s alternative to native applications](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6473756) [PAPER]
+
+###Internet Of Things
+* [Development of a Simple Serial Communication Protocol for Microcontroller (SSCPM)](http://www.ijsrp.org/research_paper_dec2011/ijsrp-dec-2011-03.pdf)
+* [A Review on Serial Communication by UART](http://www.ijarcsse.com/docs/papers/Volume_3/1_January2013/V3I1-0220.pdf)
+* [Intelligent UART Module for Real-Time
+Applications](https://mobile.aau.at/~welmenre/wises03/papers/16_Intelligent_UART_Module_for_Real-Time_Applications.pdf)
+* [Linux Kernel Documentation - GPIO](https://www.kernel.org/doc/Documentation/gpio/gpio.txt)
+* [Linux Kernel Documentation - UART](https://www.kernel.org/doc/Documentation/serial/driver)
+* [Linux Kernel Documentation - I2C](https://www.kernel.org/doc/Documentation/i2c/dev-interface)
+* [The Websocket Protocol](https://tools.ietf.org/html/rfc6455)
+* [The Web Of Things](http://www.sofsem.cz/sofsem10/presentations/invited/Raggett.pdf)
+* [A Web of Things Framework for RESTful Applications and Its Experimentation in a Smart City](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6906241&queryText=web%20of%20things&newsearch=true)
+* [Communicating and Displaying Real-Time Data with WebSocket](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6197172&queryText=websocket&newsearch=true)
+* [The study of compression algorithms for WebSocket protocol](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6839887&queryText=websocket&newsearch=true)
+* [Internet of Things (IoT): A vision, architectural elements, and future directions](http://www.buyya.com/papers/Internet-of-Things-Vision-Future2013.pdf)
+* [Internet of Things – Architecture](https://drive.google.com/file/d/0Bym8mAYAteodODI4R1JHZWpsX28/view?usp=sharing)
 
 #Self Publish
 
